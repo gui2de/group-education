@@ -35,7 +35,7 @@
     - Increased school attendance by girls during their period
     - Reduced stress around periods and better focus in class 
 
-- Final Outcome: 
+- Impact: 
     - Higher learning outcomes from increased attendance 
     - Increased female empowerment (better understanding of their bodies and reduced stigma)
 
