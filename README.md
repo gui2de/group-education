@@ -1,18 +1,79 @@
 
 # Education Group Project - Theory of Change 
 
-## Policy Issue: 
+## Policy issue: 
 
-- High social stigma and the low provision of menstrual hygiene products can be a significant impediment for girls’ access to education in Sub-Saharan Africa (Benshaul-Tolonen et al., 2020). This is a prevalent issue in Uganda whereby 65% of girls and women lack the resources and support to meet their menstrual health needs (Surge, 2024).
+- Low provision of menstrual hygiene products and lack of understanding of what periods are/ how to prepare for them is a significant impediment for girls’ access to education in Sub-Saharan Africa (Benshaul-Tolonen et al., 2020). 
 - This can have severe impacts on their education, whereby one-quarter of secondary school girls drop out of school after they begin menstruating (Surge, 2024). 
-- Whilst the challenges and consequences of low menstrual health provisions are understood, there is a lack of data and understanding of the impacts of good menstrual hygiene practices and resources in Sub-Saharan Africa (Anbesu & Asgedom, 2023), especially regarding the impacts of social stigma.
+- Whilst the challenges and consequences of low menstrual health provisions are understood, there is a lack of data and understanding of the impacts of good menstrual hygiene practices and resources in Sub-Saharan Africa (Anbesu & Asgedom, 2023).
 
-## Policy Proposal 
+## What issues exist regarding menustration and girls' education: 
 
-- We propose a policy intervention to study the impacts of providing sanitary products and interventions to reduce social stigma through educational workshops. We propose having two treatments and a control group. 
-    - Treatment 1: Provision of hygiene products 
-    - Treatment 2: Provision of hygiene products and educational workshops led in schools 
-    - Control group: No intervention 
+- Menstruation poses significant challenges to girls' education in Sub-Saharan Africa through multiple mechanisms:
+
+    1. Resource constraints: research from UNICEF (2022) shows that common reasons girls and women held back from school were due to a lack of access to menstrual hygiene products were common factors. 
+        - This is an acute issue in Côte d'Ivoire, with little exisiting research done in the country. Within the country, period poverty affects approximately 61% of women and girls, with many unable to afford proper menstrual products (The Borgen Project, 2023). In northern Côte d'Ivoire, it was found that only 10% of schools have adequate hygiene facilities (Kouakou et al., 2021), creating significant barriers to school attendance during menstruation. 
+
+    2. Lack of understanding and awareness of periods before their first cycle, which can affect their perception and understanding of menstruation (UNICEF, 2022). This can affect girls' education through different channels: 
+         - Psychological impacts (stress, anxiety, reduced confidence)
+         - Social dynamics (fear of teasing, isolation from peers)
+       
+## How these issues affect girls' education 
+
+The effects of inadequate menstrual health knowledge and resources manifest in multiple ways:
+
+1. Direct impact on school attendance 
+- Regular absenteeism during menstruation periods
+- In Ethiopia, it was found that 58% of girls report declined school performance post-menarche (Tegegne et al., 2014) and 52% of girls miss school due to fear of teasing (Tegegne et al., 2014)
+
+2. Learning Environment Effects (Macours et al., 2024)
+- Increased stress and anxiety during menstruation
+- Reduced concentration in class
+- Negative impacts on the overall school social environment
+
+### Persistence Factors
+
+These issues surrounding the impact of menustration on girls' education persist due to several interconnected factors:
+
+1. Economic Barriers
+- cost of sanitary products relative to household incomes
+- limited availability of cheap/alternative options 
+- competing household financial priorities
+
+2. Social and Educational Barriers
+- insufficient awareness about proper menstrual hygiene
+- limited knowledge transfer within families 
+- inadequate school provision for menstrual management in terms of teacher and resource support
+
+## Intervention design
+
+### Policy Proposal: addressing different barriers through different treatement arms
+
+#### Setting: Côte d'Ivoire
+
+Our intervention design targets both practical and social barriers:
+
+1. Treatment A: Product provision only 
+- Addresses immediate resource constraints
+- Enables basic menstrual management at school
+- Tests the impact of removing practical barriers alone
+
+2. Treatment B: Mixed intervention: product provision and workshops
+- Combination product provision with educational workshops
+- Addresses both resource and social barriers
+
+3. Control: no intervention
+
+### Expected/anticiapted mechanisms of change given the existing literature:
+
+1. Direct impacts
+- access to sanitary products ->  increased attendance since girls don't have to worry about bleeding in public
+- increaesd knowledge and understanding -> better understanding of what a period is, why it is natural and what to expect 
+
+2. Indirect impacts
+- Peer education through the workshops -> change social norms
+- Teacher training ->  more supportive learning environment
+
 
 ## Theory of Change Outline: 
 
@@ -40,11 +101,15 @@
     - Increased female empowerment (better understanding of their bodies and reduced stigma)
 
 
-### Links to relevant and useful articles: 
-[Pilot Intervention Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC7044877/)
 
 ## References 
 
 - Benshaul-Tolonen, Anja, Garazi Zulaika, Marni Sommer, and Penelope A. Phillips-Howard. 2020. "Measuring Menstruation-Related Absenteeism Among Adolescents in Low-Income Countries." The Palgrave Handbook of Critical Menstruation Studies: 705-723. [Available here](https://link.springer.com/chapter/10.1007/978-981-15-0614-7_52) 
 
 - Anbesu, E. W., & Asgedom, D. K. (2023). Menstrual hygiene practice and associated factors among adolescent girls in sub-Saharan Africa: A systematic review and meta-analysis. BMC Public Health, 23, 33. [Available here](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-14942-8)
+
+- [UNICEF] (https://www.unicef.org/eap/press-releases/fact-sheet-menstrual-health-and-hygiene-management-still-out-reach-many?utm_source=chatgpt.com) 
+
+- Macours, K., Vera Rueda, J., & Webb, D. (2024, May 27). Menstrual stigma, hygiene, and human capital: Experimental evidence from Madagascar. Paris School of Economics.  [Available here] (https://extranet.parisschoolofeconomics.eu/docs/macours-karen/madagascar_paper_may2024.pdf)
+
+- Tegegne, Teketo; Sisay Mitike. (2014, October). Menstrual hygiene management and school absenteeism among female adolescent students in Northeast Ethiopia. BMC Public Health.  [Available here] (https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-14-1118)
