@@ -46,23 +46,44 @@ These issues surrounding the impact of menustration on girls' education persist 
 - inadequate school provision for menstrual management in terms of teacher and resource support
 
 ## Intervention design
+- To be delivered at the school level 
+- schools will be selected so that they are in different geographic locations and there is no spillover between kids outside of school time (e.g., socially or school commute time)
+- random selection of schools to receive treatment A and random selection of schools to receive treatment B, these schools should be comparable at baseline
+- to be delivered to school year group of form 3 with girls of age 14-15
+
+## Intervention Delivery with potential risks
+- purchase products 
+- ensure sanitary prodcuts are distributed to treatment schools 
+- ensure sanitary products are distributed by teachers to students (risk: sanitary proudcts don't reach intended beneficiaries i.e., female students)
+- training sesions to teachers teaching in schools that are in treatment arm B (risk: teachers don't attend or engage with training session properly meaning they do not deliver effective workshops)
+- trained teachers then deliver workshops once per term to female students at schools in treatment arm B (risk: female students do not attend workshops)
+- collect data on school attendence of female students in each intervention arm (risk: school attendance data is unreliable or inaccurate or not collected to the same extent between different schools participating in the study)
+
+## Key Outcome Measures 
+- Overall school attendance: Measured as percentage of total school days attended per term meaured by school data on student attendance 
+- Survey on female studnet understanding and perception of period to be carried out pre and post intervention to all intervention groups
+
 
 ### Policy Proposal: addressing different barriers through different treatement arms
 
 #### Setting: Côte d'Ivoire
 
-Our intervention design targets both practical and social barriers:
+Our intervention design targets both practical and social barriers in public schools in Cote d'Ivoire: 
 
 1. Treatment A: Product provision only 
 - Addresses immediate resource constraints
 - Enables basic menstrual management at school
 - Tests the impact of removing practical barriers alone
+- Expected treament effect for treatment A: 7-10%
 
 2. Treatment B: Mixed intervention: product provision and workshops
-- Combination product provision with educational workshops
+- Combination product provision with educational workshops to be delivered to female students only 
 - Addresses both resource and social barriers
+- Expected treament effect for treatment B: 8%-12%
 
 3. Control: no intervention
+
+- all schools will be randomly selected public schools with comparable baseline characteristics 
 
 ### Expected/anticiapted mechanisms of change given the existing literature:
 
