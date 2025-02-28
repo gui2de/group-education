@@ -67,7 +67,6 @@ These issues surrounding the impact of menustration on girls' education persist 
 ### Policy Proposal: addressing different barriers through different treatement arms
 
 #### Setting: Côte d'Ivoire
-
 Our intervention design targets both practical and social barriers in public schools in Cote d'Ivoire: 
 
 1. Treatment A: Product provision only 
