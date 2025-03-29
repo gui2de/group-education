@@ -33,6 +33,7 @@ This study suggests menstrual pain, school WASH facilities, urogenital infection
     * Psychological well-being measures (confidence, stress, anxiety)
     * Product usage and satisfaction (treatment groups only)
     * Social dynamics and perceived stigma around menstruation
+    * Ability to focus in class during menstruation
 
 
 ## Policy issue: 
@@ -63,6 +64,7 @@ The effects of inadequate menstrual health knowledge and resources manifest in m
 2. Learning Environment Effects (Macours et al., 2024)
 - Increased stress and anxiety during menstruation
 - Reduced concentration in class
+- Isolation during menstruation
 - Negative impacts on the overall school social environment
 
 ### Persistence Factors
@@ -88,8 +90,8 @@ These issues surrounding the impact of menustration on girls' education persist 
 ## Intervention Delivery with potential risks
 - purchase products 
 - ensure sanitary prodcuts are distributed to treatment schools 
-- ensure sanitary products are distributed by teachers to students (risk: sanitary proudcts don't reach intended beneficiaries i.e., female students)
-- training sesions to teachers teaching in schools that are in treatment arm B (risk: teachers don't attend or engage with training session properly meaning they do not deliver effective workshops)
+- ensure sanitary products are distributed by teachers to students (risk: sanitary products don't reach intended beneficiaries i.e., female students)
+- training sessions to teachers teaching in schools that are in treatment arm B (risk: teachers don't attend or engage with training session properly meaning they do not deliver effective workshops)
 - trained teachers then deliver workshops once per term to female students at schools in treatment arm B (risk: female students do not attend workshops)
 - collect data on school attendence of female students in each intervention arm (risk: school attendance data is unreliable or inaccurate or not collected to the same extent between different schools participating in the study)
 
