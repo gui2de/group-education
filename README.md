@@ -1,7 +1,7 @@
 
 ## Education Group Project 
 
-Literature Review 
+## Literature Review 
 Menstrual hygiene management among adolescent girls in West Africa: A systematic review (Tomlinson, M. et. al. African Journal of Reproductive Health, Jan 2024) 
 Abstract: 
 A systematic literature review was conducted to examine all recent academic, peer-reviewed studies of menstrual hygiene management (MHM) across adolescent girls in Anglophone West Africa. The objective was to assess the status of the scholarship surrounding the knowledge, attitudes, and practices of MHM across English-speaking West African countries and identify gaps in the literature for further research. The authors searched the epidemiological literatures indexed in PubMed and cross-referenced bibliographies for studies published between 2010-2022. Of 59 abstracts and articles screened, 35 met the final inclusion criteria. Despite differences in study design, setting, and data sources, the study results concurred on an average age of menarche between 12-15 years old among adolescent girls. The knowledge of MHM came from multiple sources, most commonly mothers, female siblings, and teachers and higher knowledge was associated with age, source, wealth, religion, and education level. Less than half of the adolescent girls knew about menstruation before menarche. Many studies showed that girls were shocked by their first period and fearful of staining. Menstruation was associated with dysmenorrhea, fear/embarrassment, and missing school. The existing studies suggest that more implementation and evaluation of menstrual hygiene management materials, education, and facilities are needed to address the educational, physical, and social disparities that exist among girls in West African countries.
