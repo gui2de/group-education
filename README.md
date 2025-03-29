@@ -18,7 +18,7 @@ This comparative study examinese the impact of menstruation on the lives of scho
 * Differences were revealed regarding menstrual myths, parent–child dynamics, sources of guidance and student–teacher relations. <br>
 * There is a critical knowledge gap around menstruation and girls’ education in these contexts that must be addressed to ensure that girls experience a positive menarche and can manage menstrual hygiene.<br>
 
-Shah, V., Nabwera, H., Sonko, B., Bajo, F., Faal, F., Saidykhan, M., Jallow, Y., Keita, O., Schmidt, W.-P., & Torondel, B. (2022). Effects of Menstrual Health and Hygiene on School Absenteeism and Drop-Out among Adolescent Girls in Rural Gambia. International Journal of Environmental Research and Public Health, 19(6), 3337. https://doi.org/10.3390/ijerph19063337 https://www.mdpi.com/1660-4601/19/6/3337 
+Shah, V., Nabwera, H., Sonko, B., Bajo, F., Faal, F., Saidykhan, M., Jallow, Y., Keita, O., Schmidt, W.-P., & Torondel, B. (2022). Effects of Menstrual Health and Hygiene on School Absenteeism and Drop-Out among Adolescent Girls in Rural Gambia. International Journal of Environmental Research and Public Health, 19(6), 3337. https://doi.org/10.3390/ijerph19063337 https://www.mdpi.com/1660-4601/19/6/3337 <br>
 This study suggests menstrual pain, school WASH facilities, urogenital infections, and cultural beliefs affected school attendance among menstruating girls in rural Gambia.
 
 “Menstrual health intervention and school attendance in Uganda (MENISCUS-2): a pilot intervention study” (Kansiime et.al. 2020) https://bmjopen.bmj.com/content/bmjopen/10/2/e031182.full.pdf
