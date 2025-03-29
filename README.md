@@ -1,5 +1,39 @@
 
-# Education Group Project - Theory of Change 
+## Education Group Project 
+
+Literature Review 
+Menstrual hygiene management among adolescent girls in West Africa: A systematic review (Tomlinson, M. et. al. African Journal of Reproductive Health, Jan 2024) 
+Abstract: 
+A systematic literature review was conducted to examine all recent academic, peer-reviewed studies of menstrual hygiene management (MHM) across adolescent girls in Anglophone West Africa. The objective was to assess the status of the scholarship surrounding the knowledge, attitudes, and practices of MHM across English-speaking West African countries and identify gaps in the literature for further research. The authors searched the epidemiological literatures indexed in PubMed and cross-referenced bibliographies for studies published between 2010-2022. Of 59 abstracts and articles screened, 35 met the final inclusion criteria. Despite differences in study design, setting, and data sources, the study results concurred on an average age of menarche between 12-15 years old among adolescent girls. The knowledge of MHM came from multiple sources, most commonly mothers, female siblings, and teachers and higher knowledge was associated with age, source, wealth, religion, and education level. Less than half of the adolescent girls knew about menstruation before menarche. Many studies showed that girls were shocked by their first period and fearful of staining. Menstruation was associated with dysmenorrhea, fear/embarrassment, and missing school. The existing studies suggest that more implementation and evaluation of menstrual hygiene management materials, education, and facilities are needed to address the educational, physical, and social disparities that exist among girls in West African countries.
+
+Sommer, M., Ackatia-Armah, N., Connolly, S., & Smiles, D. (2014). A comparison of the menstruation and education experiences of girls in Tanzania, Ghana, Cambodia and Ethiopia. Compare: A Journal of Comparative and International Education, 45(4), 589–609. https://doi.org/10.1080/03057925.2013.871399
+
+The barriers to menstrual hygiene management faced by adolescent schoolgirls in low-income countries are gaining interest at practice and policy levels. The challenges include inadequate water, sanitation and disposal facilities for the management of menses with privacy and dignity, and insufficient guidance to help girls feel confident in attending school during menses. The studies described here aimed to examine how menarche impacts the lives of schoolgirls in three low-income countries (Ghana, Cambodia and Ethiopia). The focus included girls’ school participation; their relationship with parents, teachers and peers; their evolving sanitation and hygiene needs; their understanding of cultural issues and taboos around menses; and what education, if any, they received prior to and during puberty. This comparative analysis was aimed at identifying similarities between the three countries that would enable the adaptation to each context of a training book on menstruation issues for girls, which was developed from a previous study conducted in Tanzania. In all three countries, participatory activities were utilised with girls and results were analysed using grounded theory. Findings included: similarities regarding the importance of culture in perpetuating negative attitudes towards menstruation, limited provision of health information and insufficient facilities within schools. Differences were revealed regarding menstrual myths, parent–child dynamics, sources of guidance and student–teacher relations. There is a critical knowledge gap around menstruation and girls’ education in these contexts that must be addressed to ensure that girls experience a positive menarche and can manage menstrual hygiene.
+
+Shah, V., Nabwera, H., Sonko, B., Bajo, F., Faal, F., Saidykhan, M., Jallow, Y., Keita, O., Schmidt, W.-P., & Torondel, B. (2022). Effects of Menstrual Health and Hygiene on School Absenteeism and Drop-Out among Adolescent Girls in Rural Gambia. International Journal of Environmental Research and Public Health, 19(6), 3337. https://doi.org/10.3390/ijerph19063337 https://www.mdpi.com/1660-4601/19/6/3337 
+This study suggests menstrual pain, school WASH facilities, urogenital infections, and cultural beliefs affected school attendance among menstruating girls in rural Gambia.
+
+“Menstrual health intervention and school attendance in Uganda (MENISCUS-2): a pilot intervention study” (Kansiime et.al. 2020)
+
+## Data Collection 
+
+### Timeline and Frequency
+* Baseline data collection: One month before intervention implementation
+* Midline data collection: At the end of each school term (3 times per year)
+* Endline data collection: Two years after baseline
+
+### Data Sources: Primary Outcome Measures
+1. School Attendance Records
+    * Daily attendance data from official school registers
+    * Separated by gender and reason for absence when available
+
+2. Student Surveys (Pre and Post Intervention)
+    * Knowledge, attitudes, and practices related to menstruation for all students (both genders)
+    * Self-reported school attendance during menstruation
+    * Psychological well-being measures (confidence, stress, anxiety)
+    * Product usage and satisfaction (treatment groups only)
+    * Social dynamics and perceived stigma around menstruation
+
 
 ## Policy issue: 
 
