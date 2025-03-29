@@ -107,12 +107,12 @@ Our intervention design targets both practical and social barriers in public sch
 - Addresses immediate resource constraints
 - Enables basic menstrual management at school
 - Tests the impact of removing practical barriers alone
-- Expected treament effect for treatment A: 7-10%
+- Expected treament effect for treatment A: 7-10% reduction (i.e., reduce to ~22.5%) 
 
 2. Treatment B: Mixed intervention: product provision and workshops
 - Combination product provision with educational workshops to be delivered to female students only 
 - Addresses both resource and social barriers
-- Expected treament effect for treatment B: 8%-12%
+- Expected treament effect for treatment B: 8%-12% reduction 
 
 3. Control: no intervention
 
