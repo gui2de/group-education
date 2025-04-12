@@ -27,6 +27,11 @@ This study suggests menstrual pain, school WASH facilities, urogenital infection
 * Results: The proportion of girls reporting anxiety about next period decreased from 58.6% to 34.4%, and reported use of effective pain management increased from 76.4% to 91.4%.<br>
 * A cluster randomised trial is needed to evaluate rigorously the intervention effects on MHM and school attendance.
 
+## Sample 
+Secondary schools in Poro and Bagoue: 52 schools total 
+Of the total of schools of Poro, 50% are treated
+Of the total of schools of Bagoue, 50% are treated
+
 ## Data Collection 
 
 ### Timeline and Frequency
