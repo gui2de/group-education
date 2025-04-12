@@ -28,9 +28,9 @@ This study suggests menstrual pain, school WASH facilities, urogenital infection
 * A cluster randomised trial is needed to evaluate rigorously the intervention effects on MHM and school attendance.
 
 ## Sample 
-Secondary schools in Poro and Bagoue: 52 schools total 
-Of the total of schools of Poro, 50% are treated
-Of the total of schools of Bagoue, 50% are treated
+- Secondary schools in Poro and Bagoue: 52 schools total 
+- Of the total of schools of Poro, 50% are treated
+- Of the total of schools of Bagoue, 50% are treated
 
 ## Data Collection 
 
