@@ -11,7 +11,7 @@ This systematic literature review conducted to examine all recent academic, peer
 
 Sommer, M., Ackatia-Armah, N., Connolly, S., & Smiles, D. (2014). A comparison of the menstruation and education experiences of girls in Tanzania, Ghana, Cambodia and Ethiopia. Compare: A Journal of Comparative and International Education, 45(4), 589–609. https://doi.org/10.1080/03057925.2013.871399
 
-This comparative study examinese the impact of menstruation on the lives of schoolgirls in Ghana, Cambodia and Ethiopia. It finds: <br>
+This comparative study examines the impact of menstruation on the lives of schoolgirls in Ghana, Cambodia and Ethiopia. It finds: <br>
 * Challenges to adolescent management of menses with privacy and dignity include inadequate water, sanitation and disposal facilities, and insufficient guidance to help girls feel confident in attending school during menses. <br>
 * The focus included girls’ school participation; their relationship with parents, teachers and peers; their evolving sanitation and hygiene needs; their understanding of cultural issues and taboos around menses; and what education, if any, they received prior to and during puberty. <br>
 * Similarities regarding the importance of culture in perpetuating negative attitudes towards menstruation, limited provision of health information and insufficient facilities within schools. <br>
@@ -23,7 +23,7 @@ Shah, V., Nabwera, H., Sonko, B., Bajo, F., Faal, F., Saidykhan, M., Jallow, Y.,
 This study suggests menstrual pain, school WASH facilities, urogenital infections, and cultural beliefs affected school attendance among menstruating girls in rural Gambia.
 
 “Menstrual health intervention and school attendance in Uganda (MENISCUS-2): a pilot intervention study” (Kansiime et.al. 2020) https://bmjopen.bmj.com/content/bmjopen/10/2/e031182.full.pdf
-* Intervention: training teachers to improve delivery of government guidelines for pubertyeducation, training in use of a menstrual kit and pain management, a drama skit, provision of analgesics and improvements to school water and sanitation hygiene facilities <br>
+* Intervention: training teachers to improve delivery of government guidelines for puberty education, training in use of a menstrual kit and pain management, a drama skit, provision of analgesics and improvements to school water and sanitation hygiene facilities <br>
 * Results: The proportion of girls reporting anxiety about next period decreased from 58.6% to 34.4%, and reported use of effective pain management increased from 76.4% to 91.4%.<br>
 * A cluster randomised trial is needed to evaluate rigorously the intervention effects on MHM and school attendance.
 
