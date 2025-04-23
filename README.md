@@ -12,7 +12,7 @@ This systematic literature review conducted to examine all recent academic, peer
 Sommer, M., Ackatia-Armah, N., Connolly, S., & Smiles, D. (2014). A comparison of the menstruation and education experiences of girls in Tanzania, Ghana, Cambodia and Ethiopia. Compare: A Journal of Comparative and International Education, 45(4), 589–609. https://doi.org/10.1080/03057925.2013.871399
 
 This comparative study examines the impact of menstruation on the lives of schoolgirls in Ghana, Cambodia and Ethiopia. It finds: <br>
-* Challenges to adolescent management of menses with privacy and dignity include inadequate water, sanitation and disposal facilities, and insufficient guidance to help girls feel confident in attending school during menses. <br>
+* Challenges to adolescent management of menses with privacy and dignity include inadequate water, sanitation and disposal facilities, and insufficient guidance to help girls feel confident in attending school during their menses. <br>
 * The focus included girls’ school participation; their relationship with parents, teachers and peers; their evolving sanitation and hygiene needs; their understanding of cultural issues and taboos around menses; and what education, if any, they received prior to and during puberty. <br>
 * Similarities regarding the importance of culture in perpetuating negative attitudes towards menstruation, limited provision of health information and insufficient facilities within schools. <br>
 * Differences were revealed regarding menstrual myths, parent–child dynamics, sources of guidance and student–teacher relations. <br>
